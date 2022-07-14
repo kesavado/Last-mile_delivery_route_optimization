@@ -1,0 +1,5 @@
+# Last-mile_delivery_route_optimization
+Delivering the product to the customer is the final goal of product delivery. Hence comes the segment of the process that is Last-mile delivery which is the costliest and the time taking process in the whole process network (supply-chain network). The process includes the costs such as fuel, labor, and capital, leading to the costliest among the other processes. So, to reduce the total cost, we must build an optimal route with the lowest total travel distance, saving time and the fuel used to cover the delivery locations. Thus, reducing the number of delivery trucks required overall and the number of workers leads to a decrease in the overall cost for the delivery.
+
+For estimating the travel time from node to node time series data is taken to consideration and is estimated 
+Heuristic approach is used to for overall travle time reduction route this giving an optimized route.
